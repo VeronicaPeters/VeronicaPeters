@@ -10,9 +10,6 @@ I work across application security, offensive security, and attack surface manag
 - 🤖 Currently exploring AI and LLM security.
 
 ---
-
-## 💻 Tech Stack
-
 ## 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -22,6 +19,7 @@ I work across application security, offensive security, and attack surface manag
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![OWASP Threat Dragon](https://img.shields.io/badge/OWASP_Threat_Dragon-00549E?style=for-the-badge&logo=owasp&logoColor=white)
+![Microsoft Threat Modeling Tool](https://img.shields.io/badge/Microsoft_Threat_Modeling_Tool-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -46,9 +44,6 @@ I work across application security, offensive security, and attack surface manag
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-293E40?style=for-the-badge&logo=servicenow&logoColor=white)
 ![SureCloud](https://img.shields.io/badge/SureCloud-1675B9?style=for-the-badge)
 ![OpenCode](https://img.shields.io/badge/OpenCode-333333?style=for-the-badge)
-![Microsoft Threat Modeling Tool](https://img.shields.io/badge/Microsoft_Threat_Modeling_Tool-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Semgrep](https://img.shields.io/badge/Semgrep-4B32C3?style=for-the-badge)
-![Gitleaks](https://img.shields.io/badge/Gitleaks-8B0000?style=for-the-badge)
 
 <!-- Security Frameworks & Standards -->
 ![OWASP Web Top 10](https://img.shields.io/badge/OWASP_Web_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white)
