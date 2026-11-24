@@ -21,6 +21,7 @@ I work across application security, offensive security, and attack surface manag
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![OWASP Threat Dragon](https://img.shields.io/badge/OWASP_Threat_Dragon-00549E?style=for-the-badge&logo=owasp&logoColor=white)
 
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -31,29 +32,13 @@ I work across application security, offensive security, and attack surface manag
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API_Gateway-4169E1?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-
-
-## 💻 Tech Stack
-
-<!-- Security Specialisms -->
-![API Security Testing](https://img.shields.io/badge/API_Security_Testing-E34F26?style=for-the-badge)
-![Attack Surface Management](https://img.shields.io/badge/Attack_Surface_Management-6A5ACD?style=for-the-badge)
-![Threat Modeling](https://img.shields.io/badge/Threat_Modeling-8A2BE2?style=for-the-badge)
-![Secure Code Review](https://img.shields.io/badge/Secure_Code_Review-008080?style=for-the-badge)
-![Web Application Testing](https://img.shields.io/badge/Web_Application_Testing-FF6347?style=for-the-badge)
-![Incident Response](https://img.shields.io/badge/Incident_Response-DC143C?style=for-the-badge)
-![Risk Remediation](https://img.shields.io/badge/Risk_Remediation-228B22?style=for-the-badge)
-![Secure SDLC](https://img.shields.io/badge/Secure_SDLC-4682B4?style=for-the-badge)
-
 <!-- Security Tools & Platforms -->
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Mandiant ASM](https://img.shields.io/badge/Mandiant_ASM-B3261E?style=for-the-badge)
 ![Wiz](https://img.shields.io/badge/Wiz-6C4CE3?style=for-the-badge)
 ![Qualys](https://img.shields.io/badge/Qualys-ED1C24?style=for-the-badge)
@@ -64,18 +49,6 @@ I work across application security, offensive security, and attack surface manag
 ![Microsoft Threat Modeling Tool](https://img.shields.io/badge/Microsoft_Threat_Modeling_Tool-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Semgrep](https://img.shields.io/badge/Semgrep-4B32C3?style=for-the-badge)
 ![Gitleaks](https://img.shields.io/badge/Gitleaks-8B0000?style=for-the-badge)
-
-<!-- Programming & Automation -->
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-
-<!-- Cloud & DevSecOps -->
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![SAST](https://img.shields.io/badge/SAST-6A5ACD?style=for-the-badge)
-![DAST](https://img.shields.io/badge/DAST-008B8B?style=for-the-badge)
-![SCA](https://img.shields.io/badge/SCA-FF8C00?style=for-the-badge)
-![API Gateway](https://img.shields.io/badge/API_Gateway-4169E1?style=for-the-badge)
 
 <!-- Security Frameworks & Standards -->
 ![OWASP Web Top 10](https://img.shields.io/badge/OWASP_Web_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white)
