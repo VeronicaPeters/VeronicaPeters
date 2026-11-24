@@ -1,7 +1,5 @@
 # Hi, I'm Veronica Peters 👋
 
-**Application Security Engineer | Offensive Security | Attack Surface Management**
-
 I work across application security, offensive security, and attack surface management, identifying vulnerabilities and helping build more secure applications and systems.
 
 - 🔐 ~5 years of experience across Web, API, Cloud, and emerging AI attack surfaces.
@@ -86,7 +84,7 @@ I work across application security, offensive security, and attack surface manag
 
 ## ✍️ Writing & Publications
 
-- [Medium](YOUR_MEDIUM_URL)
+- [Medium](https://medium.com/@Vera.writes...?source=post_page---byline--a4034033490f------------------------------------------)
 
 ---
 
