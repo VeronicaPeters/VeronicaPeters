@@ -25,6 +25,7 @@ I work across application security, offensive security, and attack surface manag
 ![Semgrep](https://img.shields.io/badge/Semgrep-4B32C3?style=for-the-badge)
 ![Gitleaks](https://img.shields.io/badge/Gitleaks-8B0000?style=for-the-badge)
 ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge)
+![TruffleHog](https://img.shields.io/badge/TruffleHog-16A34A?style=for-the-badge)
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
