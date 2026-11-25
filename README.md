@@ -1,4 +1,4 @@
-# Hi, I'm Veronica Peters 👋
+# Hi, I'm Veronica Peter 👋
 
 I work across application security, offensive security, and attack surface management, identifying vulnerabilities and helping build more secure applications and systems.
 
@@ -82,10 +82,9 @@ I work across application security, offensive security, and attack surface manag
 
 ---
 
-## ✍️ Writing & Publications
-
-- [Medium](https://medium.com/@Vera.writes...?source=post_page---byline--a4034033490f------------------------------------------)
-
+## ✍️ Technical Writing & Publications (https://medium.com/@Vera.writes...?source=post_page---byline--a4034033490f------------------------------------------)
+- Hacking Zero-Health Application (https://medium.com/@Vera.writes.../hacking-zero-health-application-ca90aff295ee)
+- PCI DSS Audit of Vuln-Bank Application (https://medium.com/@Vera.writes.../pci-dss-audit-of-vuln-bank-application-1f483bf00165)
 ---
 
 - 📫 How to reach me:
