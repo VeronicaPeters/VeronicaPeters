@@ -82,7 +82,8 @@ I work across application security, offensive security, and attack surface manag
 
 ---
 
-[## ✍️ Technical Writing & Publications](https://medium.com/@Vera.writes...?source=post_page---byline--a4034033490f------------------------------------------)
+## ✍️ Technical Writing & Publications
+
 - [Hacking Zero-Health Application](https://medium.com/@Vera.writes.../hacking-zero-health-application-ca90aff295ee)
 - [PCI DSS Audit of Vuln-Bank Application](https://medium.com/@Vera.writes.../pci-dss-audit-of-vuln-bank-application-1f483bf00165)
 - [Thinking Like an Attacker: How API Pen-Testers Identify Authentication Bypass Flaws](https://medium.com/@Vera.writes.../thinking-like-an-attacker-how-api-pen-testers-identify-authentication-bypass-34e3ac0afb4a?source=your_stories_outbox---writer_outbox_published--------------------------------------------)
