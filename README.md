@@ -82,8 +82,8 @@ I work across application security, offensive security, and attack surface manag
 
 ---
 
-## ✍️ Technical Writing & Publications (https://medium.com/@Vera.writes...?source=post_page---byline--a4034033490f------------------------------------------)
-- Hacking Zero-Health Application (https://medium.com/@Vera.writes.../hacking-zero-health-application-ca90aff295ee)
+[## ✍️ Technical Writing & Publications](https://medium.com/@Vera.writes...?source=post_page---byline--a4034033490f------------------------------------------)
+- [Hacking Zero-Health Application] (https://medium.com/@Vera.writes.../hacking-zero-health-application-ca90aff295ee)
 - PCI DSS Audit of Vuln-Bank Application (https://medium.com/@Vera.writes.../pci-dss-audit-of-vuln-bank-application-1f483bf00165)
 ---
 
