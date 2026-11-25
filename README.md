@@ -83,8 +83,15 @@ I work across application security, offensive security, and attack surface manag
 ---
 
 [## ✍️ Technical Writing & Publications](https://medium.com/@Vera.writes...?source=post_page---byline--a4034033490f------------------------------------------)
-- [Hacking Zero-Health Application] (https://medium.com/@Vera.writes.../hacking-zero-health-application-ca90aff295ee)
-- PCI DSS Audit of Vuln-Bank Application (https://medium.com/@Vera.writes.../pci-dss-audit-of-vuln-bank-application-1f483bf00165)
+- [Hacking Zero-Health Application](https://medium.com/@Vera.writes.../hacking-zero-health-application-ca90aff295ee)
+- [PCI DSS Audit of Vuln-Bank Application](https://medium.com/@Vera.writes.../pci-dss-audit-of-vuln-bank-application-1f483bf00165)
+- [Thinking Like an Attacker: How API Pen-Testers Identify Authentication Bypass Flaws](https://medium.com/@Vera.writes.../thinking-like-an-attacker-how-api-pen-testers-identify-authentication-bypass-34e3ac0afb4a?source=your_stories_outbox---writer_outbox_published--------------------------------------------)
+- [Why API Gateways Are Critical for Securing Public APIs (Lessons I Learned from Building One)](https://medium.com/@Vera.writes.../why-api-gateways-are-critical-for-securing-public-apis-lessons-i-learned-from-building-one-a4034033490f)
+- [What API Developers Need to Know About PCI DSS and Financial API Security](https://medium.com/@Vera.writes.../what-api-developers-need-to-know-about-pci-dss-and-financial-api-security-8f1ee0fb1ef1)
+- [API Keys, Tokens & Secrets: How They Leak and How Developers can Avoid it](https://medium.com/@Vera.writes.../api-keys-tokens-secrets-how-they-leak-and-how-developers-can-avoid-it-37c458f16774)
+- [Understanding Broken Object Level Authorization (BOLA): What It Is, How It Happens, and How to Prevent it](https://medium.com/@Vera.writes.../understanding-broken-object-level-authorization-bola-what-it-is-how-it-happens-and-how-to-52e6236e072c)
+- [A Beginner-Friendly Guide to API Authentication & Authorization: Lessons from Real-World APIs](https://medium.com/@Vera.writes.../a-beginner-friendly-guide-to-api-authentication-authorization-lessons-from-real-world-apis-466528ef00be)
+- [What is API Security and Why Should Everyday People Care About it?](https://medium.com/@Vera.writes.../what-is-api-security-and-why-should-everyday-people-care-about-it-529f8b744d83)
 ---
 
 - 📫 How to reach me:
